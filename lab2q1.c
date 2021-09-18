@@ -6,11 +6,11 @@ int main()
     int y = 5;
     int z = 5;
 
-/*    if(z !=0) 
+    if(z !=0) 
         y = 295;
     else
         x = 10;
-*/
+
     
 /*    if(y + z > 10)
         y = 99;
