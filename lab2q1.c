@@ -18,14 +18,14 @@ int main()
     x = z;
 */
 
-    if(x = 1)
+/*    if(x = 1)
     {
         x = x - 3;
         z = z + 3;
     }
     else
         y = 99;
-
+*/
 
     printf("x is %d\n", x);
     printf("y is %d\n", y);
